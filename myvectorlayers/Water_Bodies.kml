@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Water_Bodies</name>
+	<gx:CascadingStyle kml:id="__managed_style_231948F5AE2EF2C56F80">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffd27619</color>
+				<width>2.18182</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>80f5a542</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1350006B7A2EF2C56F80">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffd27619</color>
+				<width>1.45455</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>80f5a542</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_050BB2F07C2EF2C56F80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1350006B7A2EF2C56F80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_231948F5AE2EF2C56F80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0421C9A4052EF2C56F7F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>fff5a542</color>
+				<width>2.18182</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40f5a542</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1178FF76CE2EF2C56F7E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>fff5a542</color>
+				<width>1.45455</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40f5a542</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0716747A0F2EF2C56F7E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1178FF76CE2EF2C56F7E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0421C9A4052EF2C56F7F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="03242A5BB32E8BC72108">
+		<name>water_layer1</name>
+		<LookAt>
+			<longitude>83.26683721546526</longitude>
+			<latitude>17.69979253206721</latitude>
+			<altitude>41.82076856114991</altitude>
+			<heading>-2.830610356914648</heading>
+			<tilt>10.83168995718701</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9279.715953741688</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0716747A0F2EF2C56F7E</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						83.26893231191235,17.71285990307402,0 83.26963786200926,17.70925537444062,0 83.26945715142392,17.70865105544566,0 83.26555978837654,17.70935546434804,0 83.26596232881271,17.70700061120312,0 83.26297397658958,17.70568239955535,0 83.26268738178894,17.70466318471323,0 83.27015764740342,17.70500482779261,0 83.2718132842341,17.70502687491993,0 83.27605061038274,17.69724668075671,0 83.27783301526117,17.69455931914572,0 83.27020159928131,17.69636725869966,0 83.26881942601912,17.69594764863783,0 83.26882495549339,17.69519786115907,0 83.27697820105764,17.69283571900695,0 83.28052338849261,17.69016053134115,0 83.28063168640568,17.68943124621951,0 83.27960908852751,17.6888017968704,0 83.28275428946812,17.68794646975073,0 83.28728237584431,17.68688567834433,0 83.28660452038979,17.68827066527565,0 83.28273425548097,17.69024494546258,0 83.28217357078474,17.6921041510174,0 83.28380294333259,17.6926930813252,0 83.28333836506143,17.69601206207439,0 83.28281541531834,17.69984420899617,0 83.28315046379061,17.7017809898915,0 83.28431174179069,17.70435144682456,0 83.28527696877023,17.70586813512238,0 83.28430092316576,17.70816814177922,0 83.28353964547695,17.71075942121067,0 83.28133877382939,17.71222132703521,0 83.28203288061074,17.70952819818437,0 83.28229427904391,17.70674992196279,0 83.28029341857,17.70527288113598,0 83.28046833950498,17.70151501999104,0 83.28111971640502,17.69724957910799,0 83.28128184143034,17.6959253043653,0 83.27936001284311,17.69590600542321,0 83.27801146745797,17.69873868978872,0 83.27729114989246,17.70278093818458,0 83.27591508862174,17.70387208002345,0 83.27309148476783,17.70690404042986,0 83.27246960648048,17.7089701173353,0 83.27277018443641,17.71079607718552,0 83.27245209403668,17.7129534560594,0 83.27076368553116,17.71342724560644,0 83.26893231191235,17.71285990307402,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0D874241992E8BCA6F81">
+		<name>water_layer2</name>
+		<LookAt>
+			<longitude>83.22620185705158</longitude>
+			<latitude>17.66844290032085</latitude>
+			<altitude>152.8554377482924</altitude>
+			<heading>-2.831342285216075</heading>
+			<tilt>10.87835461944936</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>36931.55024461448</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0716747A0F2EF2C56F7E</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						83.27888027988529,17.65847509800732,0 83.26563158487541,17.65209470939988,0 83.25818967506503,17.6441221758729,0 83.27212485310966,17.64188165647906,0 83.2914648122787,17.63871971065645,0 83.29999401649961,17.64367586595148,0 83.29811376998029,17.65987913402927,0 83.27888027988529,17.65847509800732,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E5EE7AF982ECCE0D392">
+		<name>water_layer3</name>
+		<LookAt>
+			<longitude>83.17940795887461</longitude>
+			<latitude>17.76085527076298</latitude>
+			<altitude>35.59005892802862</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99930483473918</gx:fovy>
+			<range>19743.83022694616</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_050BB2F07C2EF2C56F80</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						83.16906116722643,17.78930724447016,0 83.170932690462,17.78379013498917,0 83.17351565040771,17.77445966578889,0 83.18305600965226,17.75807396490615,0 83.19516331642011,17.75961194289108,0 83.19026421550295,17.78395990482535,0 83.16906116722643,17.78930724447016,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

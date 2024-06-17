@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Hospitals</name>
+	<gx:CascadingStyle kml:id="__managed_style_0A43D7B4192EF2C552E3">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.36364</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_28B902C6092EF2C552E2">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.90909</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_1C4DBFFD7D2EF2C552E2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_28B902C6092EF2C552E2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0A43D7B4192EF2C552E3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_04B8DAE6892EF2C552E2">
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.36364</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_196B182F5B2EF2C552E1">
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.90909</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_03321748C32EF2C552E1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_196B182F5B2EF2C552E1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04B8DAE6892EF2C552E2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0CA9D00EBB2E8BEECFA2">
+		<name>hospital_1</name>
+		<LookAt>
+			<longitude>83.29355451366644</longitude>
+			<latitude>17.70478200720206</latitude>
+			<altitude>25.00326327727259</altitude>
+			<heading>-0.6830172626221843</heading>
+			<tilt>1.389206115873112</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4812.586347498</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03321748C32EF2C552E1</styleUrl>
+		<Point>
+			<coordinates>83.309213,17.706194,33.8734330417069</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="055C8DFD3B2E8BEF25B1">
+		<name>hospital_2</name>
+		<LookAt>
+			<longitude>83.29355451366644</longitude>
+			<latitude>17.70478200720206</latitude>
+			<altitude>25.00326327727259</altitude>
+			<heading>-0.6830172626221843</heading>
+			<tilt>1.389206115873112</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4812.586347498</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03321748C32EF2C552E1</styleUrl>
+		<Point>
+			<coordinates>83.30863365112643,17.70837108933601,50.40461410381831</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E3EF5A6032E8BF12018">
+		<name>hospital_4</name>
+		<LookAt>
+			<longitude>83.291173102952</longitude>
+			<latitude>17.71120283509449</latitude>
+			<altitude>19.85413351019787</altitude>
+			<heading>356.4516150625911</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9806.606201101094</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1C4DBFFD7D2EF2C552E2</styleUrl>
+		<Point>
+			<coordinates>83.30687743536791,17.71553462268619,64.136190774802</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06FADEB8672E8BF1C13E">
+		<name>hospital_5</name>
+		<LookAt>
+			<longitude>83.30243268721688</longitude>
+			<latitude>17.7121618004835</latitude>
+			<altitude>40.59770784144114</altitude>
+			<heading>356.4516150224847</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>13458.65269365488</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1C4DBFFD7D2EF2C552E2</styleUrl>
+		<Point>
+			<coordinates>83.3115806,17.7186707,66.75557222133433</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07F2D5E9392E8E4F9D87">
+		<name>hospital_6</name>
+		<LookAt>
+			<longitude>83.25574949964849</longitude>
+			<latitude>17.69592700373677</latitude>
+			<altitude>31.05772696765644</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99967618902011</gx:fovy>
+			<range>44281.49705061224</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03321748C32EF2C552E1</styleUrl>
+		<Point>
+			<coordinates>83.1961976861347,17.71402427368729,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09859011DA2E8E508E7A">
+		<name>hopital_7</name>
+		<LookAt>
+			<longitude>83.25574949964849</longitude>
+			<latitude>17.69592700373677</latitude>
+			<altitude>31.05772696765644</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99967618902011</gx:fovy>
+			<range>44281.49705061224</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03321748C32EF2C552E1</styleUrl>
+		<Point>
+			<coordinates>83.31281849999999,17.7203227,85.52838462340949</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

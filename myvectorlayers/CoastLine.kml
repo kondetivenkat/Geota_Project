@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CoastLine</name>
+	<gx:CascadingStyle kml:id="__managed_style_2207B334932EF2C56011">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>3.27273</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1CA62385512EF2C56011">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>2.18182</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_03653301272EF2C56011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1CA62385512EF2C56011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2207B334932EF2C56011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0E7775DE642E8BF41FBB">
+		<name>coastline_1</name>
+		<LookAt>
+			<longitude>83.20238315061418</longitude>
+			<latitude>17.67648066201865</latitude>
+			<altitude>53.09527790993904</altitude>
+			<heading>356.4516140384923</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>43101.00443477277</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03653301272EF2C56011</styleUrl>
+		<LineString>
+			<coordinates>
+				83.23175675114813,17.62360972842891,0 83.25402259942705,17.64104133095674,0 83.2722308993493,17.65607710956946,0 83.28772591843895,17.66504682294888,0 83.29884351227659,17.68074540164821,0 83.29606784933173,17.68864331569162,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0215E0CCAE2E8BF4F8C4">
+		<name>coastline_2</name>
+		<LookAt>
+			<longitude>83.29620274801141</longitude>
+			<latitude>17.70713002747028</latitude>
+			<altitude>26.80943261130161</altitude>
+			<heading>356.4516139239023</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>13319.22218937194</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03653301272EF2C56011</styleUrl>
+		<LineString>
+			<coordinates>
+				83.30882449300213,17.70368765778138,0 83.32541782233616,17.71508746104793,0 83.3380493887712,17.72066608233731,0 83.34586544845823,17.72611012699087,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0DA6378DD92ECCF1DF9C">
+		<name>coastline_3</name>
+		<LookAt>
+			<longitude>83.13758737214512</longitude>
+			<latitude>17.56371643666387</latitude>
+			<altitude>31.94104399222626</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99993074361963</gx:fovy>
+			<range>38127.51437157858</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03653301272EF2C56011</styleUrl>
+		<LineString>
+			<coordinates>
+				83.03497302929151,17.51446520890562,0 83.07922132154219,17.53061070783764,0 83.11051172502555,17.54482619567876,0 83.15473004457579,17.55690565754523,0 83.17461007153069,17.57537913741853,0 83.21086978757707,17.59004694322325,0 83.23302665486514,17.61042051862043,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

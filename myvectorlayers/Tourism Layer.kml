@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tourism Layer</name>
+	<gx:CascadingStyle kml:id="__managed_style_16DC5983982EF2C579E7">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.90909</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BF5518F742EF2C579E7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_16DC5983982EF2C579E7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0FA67B482F2EF2C579E8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0257B870DB2EF2C579E6">
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.36364</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1087C83ACC2EF2C579E5">
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.90909</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0FA67B482F2EF2C579E8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.36364</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E8563CE432EF2C579E5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1087C83ACC2EF2C579E5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0257B870DB2EF2C579E6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="01220835AE2E8C09CB22">
+		<name>tourist layer_1</name>
+		<LookAt>
+			<longitude>83.29765632045223</longitude>
+			<latitude>17.6748741112569</latitude>
+			<altitude>16.87920105290377</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>12976.65207905229</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E8563CE432EF2C579E5</styleUrl>
+		<Point>
+			<coordinates>83.2928865597242,17.67668788948584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07467756BA2E8C0A9B0B">
+		<name>tourist layer_2</name>
+		<LookAt>
+			<longitude>83.31197063844222</longitude>
+			<latitude>17.70877739449809</latitude>
+			<altitude>44.42919450694745</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>6409.327139026718</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BF5518F742EF2C579E7</styleUrl>
+		<Point>
+			<coordinates>83.31998385945251,17.71256393453664,26.80286046265411</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F8D7592562E8C0B2543">
+		<name>tourist layer_3</name>
+		<LookAt>
+			<longitude>83.30086487461685</longitude>
+			<latitude>17.70799170852291</latitude>
+			<altitude>31.43843829899324</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11460.80741359619</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BF5518F742EF2C579E7</styleUrl>
+		<Point>
+			<coordinates>83.33021931226166,17.71717352974281,21.76352030140311</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

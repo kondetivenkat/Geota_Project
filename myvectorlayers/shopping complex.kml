@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>shopping complex</name>
+	<gx:CascadingStyle kml:id="__managed_style_05278EDDCC2EF2C545BC">
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.36364</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1552FC9AD72EF2C545BB">
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.90909</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0CB94731842EF2C545BB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1552FC9AD72EF2C545BB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_05278EDDCC2EF2C545BC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="045AAE67162EDC733DF7">
+		<name>sp_complex1</name>
+		<LookAt>
+			<longitude>83.15439279020397</longitude>
+			<latitude>17.69240940930647</latitude>
+			<altitude>49.32309094707576</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>830.3191404050451</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CB94731842EF2C545BB</styleUrl>
+		<Point>
+			<coordinates>83.15404371796255,17.69331093296703,48.69949001444061</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D6F42ED52EDC740249">
+		<name>sp_complex2</name>
+		<LookAt>
+			<longitude>83.15554860431801</longitude>
+			<latitude>17.69563020561718</latitude>
+			<altitude>46.74646098385539</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1050.492335052841</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CB94731842EF2C545BB</styleUrl>
+		<Point>
+			<coordinates>83.15617211660071,17.69637860723875,47.30437164430623</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07692AF1FD2EDC74D224">
+		<name>sp_complex3</name>
+		<LookAt>
+			<longitude>83.16465243262633</longitude>
+			<latitude>17.68942270636643</latitude>
+			<altitude>40.04145504387886</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>935.5363558794488</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CB94731842EF2C545BB</styleUrl>
+		<Point>
+			<coordinates>83.16672349999999,17.688977,38.2795587592024</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0135A85E372EDC754067">
+		<name>sp_complex4</name>
+		<LookAt>
+			<longitude>83.16715109927507</longitude>
+			<latitude>17.68657932971836</latitude>
+			<altitude>38.8780499183986</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>971.166166850453</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CB94731842EF2C545BB</styleUrl>
+		<Point>
+			<coordinates>83.16839446478204,17.68578304465421,37.06623526783248</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09AEDF34AD2EDC75B186">
+		<name>sp_comple5</name>
+		<LookAt>
+			<longitude>83.16715109927507</longitude>
+			<latitude>17.68657932971836</latitude>
+			<altitude>38.8780499183986</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>971.166166850453</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CB94731842EF2C545BB</styleUrl>
+		<Point>
+			<coordinates>83.16824205945458,17.6862847311206,37.20849958998271</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B192AEA0E2EDC76495C">
+		<name>sp_complex6</name>
+		<LookAt>
+			<longitude>83.16309323731876</longitude>
+			<latitude>17.68631886132447</latitude>
+			<altitude>38.51653331741752</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2516.314271177107</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0CB94731842EF2C545BB</styleUrl>
+		<Point>
+			<coordinates>83.17307010737154,17.6868392863969,33.90082184851735</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
